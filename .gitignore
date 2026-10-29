@@ -1,0 +1,8 @@
+.env
+backend/.env
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+frontend/node_modules/
+frontend/dist/
+postgres_data/
